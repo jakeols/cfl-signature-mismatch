@@ -1,0 +1,16 @@
+{
+  "name": "cfl-signature-mismatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/node-apps-toolkit": "^2.5.2",
+    "express": "^4.18.2"
+  }
+}
